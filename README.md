@@ -136,3 +136,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for the API
 - [Flutter](https://flutter.dev/) team for the amazing framework
 - All the package authors that made this project possible
+
+## 📥 Download
+
+You can download the latest release APK from the [releases](releases) directory:
+- [Album v1.0.0](releases/album-v1.0.0.apk)
